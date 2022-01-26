@@ -1,3 +1,3 @@
 # Rat-Online
 
-Hey Hey this is an edit
+This project intends to create a program that provides extra guidance and support on a school main webpage
